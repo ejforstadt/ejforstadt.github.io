@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student at Boston University <a href='https://www.bu.edu/fluidlab/'>Fluid Lab</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
