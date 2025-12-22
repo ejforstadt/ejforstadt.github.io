@@ -455,6 +455,13 @@ ninja.data = [{
           window.open("mailto:%65%6A%66%6F%72%73%74%61%64%74@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/eforstadt", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -462,18 +469,18 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=i-BkKW8AAAAJ", "_blank");
         },
       },{
-        id: 'social-strava',
-        title: 'Strava',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.strava.com/athletes/29879163", "_blank");
-        },
-      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/ejforstadt", "_blank");
+        },
+      },{
+        id: 'social-strava',
+        title: 'Strava',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.strava.com/athletes/29879163", "_blank");
         },
       },{
       id: 'light-theme',
