@@ -459,7 +459,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=BkKW8AAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=i-BkKW8AAAAJ", "_blank");
         },
       },{
         id: 'social-strava',
