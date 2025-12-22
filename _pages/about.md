@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at <a href='https://www.bu.edu/fluidlab/'>Boston University Fluid Lab</a>. Droplets, Bubbles, and Cheerios, Oh My!
+subtitle: Droplets, Bubbles, and Cheerios, Oh My!
 
 profile:
   align: right
@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 4th year PhD Student in Mechanical Engineering at Boston University researching topics in interfacial fluid dynamics. More specifically, I use fluid dynamic modeling, experimentation, and numerics to investigate the forces acting on particles and bubbles near fluid interfaces (fluid-air and fluid-solid). Currently, I am interested in applying these ideas to topics including biofouling mitigation, collective animal behavior, and ocean foam structure and stability.
+I am a 4th year PhD Student in Mechanical Engineering researching topics in interfacial fluid dynamics at the <a href='https://www.bu.edu/fluidlab/'>Boston University Fluid Lab</a>. More specifically, I use fluid dynamic modeling, experimentation, and numerics to investigate the forces acting on particles and bubbles near fluid interfaces (fluid-air and fluid-solid). Currently, I am interested in applying these ideas to topics including biofouling mitigation, collective animal behavior, and ocean foam structure and stability.
 
 Outside my academic interests, I am also interested in drinking good coffee, reading interesting books, and running.
