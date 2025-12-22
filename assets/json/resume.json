@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Eli Forstadt",
-    "label": "Engineer",
+    "label": "",
     "image": "",
     "email": "ejforstadt@gmail.com",
     "phone": "",
@@ -24,13 +24,22 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Boston University Fluid Lab",
+      "position": "Graduate Research Assistance",
+      "url": "",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ["Fluid Dynamics","Physics Modeling"],
+    }, 
+     {
+      "name": "Cardinal Health",
+      "position": "Research and Development Engineer",
+      "url": "",
+      "startDate": "2021-05-01",
+      "endDate": "2022-08-01",
+      "summary": "",
+      "highlights": ["Medical Devices","Porous Media"],
     }
   ],
   "volunteer": [
