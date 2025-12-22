@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at <a href='https://www.bu.edu/fluidlab/'>Boston University Fluid Lab</a>
+subtitle: PhD Student at <a href='https://www.bu.edu/fluidlab/'>Boston University Fluid Lab</a>. Droplets, Bubbles, and Cheerios, Oh My!
 
 profile:
   align: right
