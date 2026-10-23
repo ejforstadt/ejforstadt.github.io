@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 description: Fluid mechanics at interfaces, from swimming larvae and floating rafts to bubble impacts and scent transport.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 My PhD research at the Boston University Fluid Lab explores how fluid motion shapes the behavior of particles, bubbles, and biological systems. I combine experiments, hydrodynamic modeling, and numerical simulations to investigate transport and forces near fluid interfaces.
@@ -20,14 +20,14 @@ How much mechanical energy does a barnacle larva spend swimming? I study the loc
 
 ---
 
-## Capillary attraction between floating rafts
-{: #capillary-rafts }
+## Following the scent: volatile transport
+{: #volatile-transport }
 
-Floating particles can attract one another by deforming the surrounding liquid surface—the familiar “Cheerios effect.” I investigate how this interaction brings groups of particles, or rafts, together, with a focus on the time required for attraction. Experiments and fluid dynamic modeling help connect collective motion at an interface to the competition between capillary forces and hydrodynamic resistance.
+How does the local rate of evaporation determine how quickly a droplet dries? I couple a new local evaporation law with boundary layer theory to model droplet drying under forced convection. The central question is how this coupling changes the predicted drying time as the liquid wicks and evaporates. A secondary focus is how the released vapor is transported and dispersed in the surrounding airflow.
 
-**Highlights:** capillary interactions · collective particle motion · attraction timescales
+**Highlights:** local evaporation law · boundary layer theory · droplet drying · vapor transport
 
-[APS DFD presentation]({{ '/publications/' | relative_url }}#forstadt2024attraction)
+[APS DFD presentation]({{ '/publications/' | relative_url }}#forstadt2026scent)
 
 ---
 
@@ -42,11 +42,11 @@ What happens when a rising bubble strikes an inclined surface? I investigate the
 
 ---
 
-## Following the scent: volatile transport
-{: #volatile-transport }
+## Capillary attraction between floating rafts
+{: #capillary-rafts }
 
-How does a volatile liquid become a scent carried by moving air? I model the coupled processes of wicking, evaporation, and dispersion by forced convection. This project follows volatile organics from liquid transport through release into the air, connecting the processes that determine how a scent is delivered and dispersed.
+Floating particles can attract one another by deforming the surrounding liquid surface—the familiar “Cheerios effect.” I investigate how this interaction brings groups of particles, or rafts, together, with a focus on the time required for attraction. Experiments and fluid dynamic modeling help connect collective motion at an interface to the competition between capillary forces and hydrodynamic resistance.
 
-**Highlights:** wicking · evaporation · forced convection · volatile transport
+**Highlights:** capillary interactions · collective particle motion · attraction timescales
 
-[APS DFD presentation]({{ '/publications/' | relative_url }}#forstadt2026scent)
+[APS DFD presentation]({{ '/publications/' | relative_url }}#forstadt2024attraction)
