@@ -16,7 +16,7 @@ How much mechanical energy does a barnacle larva spend swimming? I study the loc
 
 **Highlights:** swimming mechanics · biological fluid dynamics · locomotion energetics
 
-[Related publication](https://doi.org/10.1098/rsif.2026.0344) · [APS DFD presentation]({{ '/publications/' | relative_url }}#bird2024interfacial)
+[Read the paper (PDF)]({{ '/assets/pdf/cyprid-locomotion-2026.pdf' | relative_url }}) · [Published version](https://doi.org/10.1098/rsif.2026.0344) · [APS DFD presentation]({{ '/publications/' | relative_url }}#bird2024interfacial)
 
 ---
 
