@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: Fluid mechanics at interfaces, from swimming larvae and floating rafts to bubble impacts and scent transport.
+description: Fluid mechanics at gas-liquid-solid interfaces, from swimming barnacle larvae and floating rafts to bubble impacts and scent transport.
 nav: true
 nav_order: 2
 ---
@@ -16,11 +16,11 @@ How much mechanical energy does a barnacle larva spend swimming? I study the loc
 
 **Highlights:** swimming mechanics · biological fluid dynamics · locomotion energetics
 
-[Read the paper (PDF)]({{ '/assets/pdf/cyprid-locomotion-2026.pdf' | relative_url }}) · [Published version](https://doi.org/10.1098/rsif.2026.0344) · [APS DFD presentation]({{ '/publications/' | relative_url }}#bird2024interfacial)
+[Read my paper! (PDF)]({{ '/assets/pdf/cyprid-locomotion-2026.pdf' | relative_url }}) · [Published version](https://doi.org/10.1098/rsif.2026.0344) · [APS DFD presentation]({{ '/publications/' | relative_url }}#bird2024interfacial)
 
 ---
 
-## Following the scent: volatile transport
+## Forced convection enhancing coupled porous media evaporation and wicking
 {: #volatile-transport }
 
 How does the local rate of evaporation determine how quickly a droplet dries? I couple a new local evaporation law with boundary layer theory to model droplet drying under forced convection. The central question is how this coupling changes the predicted drying time as the liquid wicks and evaporates. A secondary focus is how the released vapor is transported and dispersed in the surrounding airflow.
@@ -36,7 +36,7 @@ How does the local rate of evaporation determine how quickly a droplet dries? I 
 
 What happens when a rising bubble strikes an inclined surface? I investigate the fluid motion and shear stress generated during bubble impact, using numerical simulations to examine how bubbles transfer forces to nearby solid boundaries. Understanding where and when these stresses act can help explain the role of bubbles in surface cleaning and biofouling mitigation.
 
-**Highlights:** bubble–surface interactions · numerical simulation · surface shear stress
+**Highlights:** bubble impact · numerical simulation · surface shear stress
 
 [APS DFD presentation]({{ '/publications/' | relative_url }}#forstadt2023mapping)
 
@@ -45,7 +45,7 @@ What happens when a rising bubble strikes an inclined surface? I investigate the
 ## Capillary attraction between floating rafts
 {: #capillary-rafts }
 
-Floating particles can attract one another by deforming the surrounding liquid surface—the familiar “Cheerios effect.” I investigate how this interaction brings groups of particles, or rafts, together, with a focus on the time required for attraction. Experiments and fluid dynamic modeling help connect collective motion at an interface to the competition between capillary forces and hydrodynamic resistance.
+Floating particles can attract one another by deforming the surrounding liquid surface in what is known as the “Cheerios effect.” I investigate how the time for attraction of two rafts to come together scales with the number of particles interaction brings groups of rafts together. Experiments and fluid dynamic modeling help connect collective motion at an interface to the competition between capillary forces and hydrodynamic resistance.
 
 **Highlights:** capillary interactions · collective particle motion · attraction timescales
 
