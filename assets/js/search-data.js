@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "Fluid mechanics at interfaces, from swimming larvae and floating rafts to bubble impacts and scent transport.",
+          description: "Fluid mechanics at gas-liquid-solid interfaces, from swimming barnacle larvae and floating rafts to bubble impacts and scent transport.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
